@@ -1,6 +1,6 @@
 # Hi, I'm Itziar 👋 👩🏻‍💻
 <img align='right' src="./images/home.gif" width="180">
-<p><em>Front End Junior at <a href="http://www.ebantic.es">Ebantic</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Front End Junior at <a href="http://www.ebantic.com">Ebantic</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### this readme is under construction!
