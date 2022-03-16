@@ -1,6 +1,6 @@
 # Hi, I'm Itziar 👋 👩🏻‍💻
 <img align='right' src="./images/home.gif" width="180">
-<p><em>Front End Junior at <a href="http://www.ebantic.com">Ebantic</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Front End Junior at <a href="http://www.apsl.net">APSL</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### this readme is under construction!
@@ -24,16 +24,12 @@ const  itziarZamezaGarcia = {
       css: ["sass", "bootstrap"],
     },
     backEnd: {
-      js: ["node", "express"],
+      js: ["Node", "Express", "Django"],
     },
-    databases: ["MySql", "sqlite", "mondoDB"],
+    databases: ["MySql", "Sqlite", "MongoDB", "postgress"],
     misc: ["git", "agile","jira","trello",],
   },
 ```
-
-
-<img src='https://lh3.googleusercontent.com/proxy/XJQ5B3FKyp4q2bKrBD2ZWLDMgwIse-T1k8ZHEX_KxG2QZUNZ2oSy3D5E75wE4hK7QxBJnHLRhcMHXgl7oKIEumyP12Io90vronYi_kZrahTJORsZp4B25GUFaTRjXAr4'>
-
 
 ⭐️ From [@itziarZG](https://github.com/itziarZG)
 
