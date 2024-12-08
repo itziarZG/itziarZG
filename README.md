@@ -1,6 +1,6 @@
 # Hi, I'm Itziar 👋 👩🏻‍💻
 <img align='right' src="./images/home.gif" width="180">
-<p><em>Front End Junior at <a href="http://www.apsl.net">APSL</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Frontend Dev at <a href="http://www.apsl.net">APSL by Nagarro</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### this readme is under construction!
