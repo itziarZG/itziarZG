@@ -5,8 +5,6 @@
 
 ### this readme is under construction!
 
-
-![Twitter Follow](https://img.shields.io/twitter/follow/itziarZG?label=Follow)
 [![Linkedin: Itziar Zameza García](https://img.shields.io/badge/-ItziarZamezaGarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itziarzamezagarcia/)](https://www.linkedin.com/in/itziarzamezagarcia/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/itziarZG?label=follow&style=social)](https://github.com/itziarZG)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itziar.zameza.dev@gmail.com)
