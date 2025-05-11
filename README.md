@@ -18,8 +18,9 @@ const  itziarZamezaGarcia = {
   technologies: {
     frontEnd: {
       html:["Html5"],
-      Frameworks: ["React", "Angular", "Vue],
+      Frameworks: ["React", "Angular", "Vue"],
       css: ["sass", "bootstrap", "Tailwind"],
+      test: ["Cypress", "Playwright", "Gherkin", "Vitest",]
     },
     backEnd: {
       js: ["Node", "Express", "Django"],
